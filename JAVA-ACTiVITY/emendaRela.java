@@ -1,4 +1,4 @@
-public class emendaRela extends ementa {
+public class emendaRela extends emenda {
     private String parlaAutor;
     private String nomeRela;
     private String indiAutor;

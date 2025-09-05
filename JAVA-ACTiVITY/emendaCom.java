@@ -1,4 +1,4 @@
-public class emendaCom extends ementa{
+public class emendaCom extends emenda{
     private String linkComTem;
     private String nomeParlas;
     private String linkRela;

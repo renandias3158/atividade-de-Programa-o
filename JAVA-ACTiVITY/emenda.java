@@ -1,4 +1,4 @@
-public class ementa{
+public class emenda{
 
     private String ano;
     private String tipo;
@@ -19,7 +19,7 @@ public class ementa{
     private float valorLiq;
     ////////CONSTRUTOR\\\\\\\\
     
-    public ementa (String ano, String tipo, String autor, int numero, double codigo,
+    public emenda (String ano, String tipo, String autor, int numero, double codigo,
                   boolean apoiador, String nomeApoiador, boolean convenio, int numConvenio,
                   String funcao, String subfuncao, String progOrc, String acaoOrc,
                   String planoOrc, float valorEmp, float valorPag, float valorLiq){

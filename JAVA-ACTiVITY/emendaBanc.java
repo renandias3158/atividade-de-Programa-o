@@ -1,4 +1,4 @@
-public class emendaBanc extends ementa {
+public class emendaBanc extends emenda {
     private String filiParla;
     private String link;
     private String nomeParla;

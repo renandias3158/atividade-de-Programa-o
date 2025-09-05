@@ -1,4 +1,4 @@
-public class emendaInd extends ementa {
+public class emendaInd extends emenda {
     private String localiEleitores;
 
     public emendaInd(String ano, String tipo, String autor, int numero, double codigo,
