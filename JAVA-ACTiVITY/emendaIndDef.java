@@ -7,7 +7,7 @@ public class emendaIndDef extends emendaInd {
                         boolean apoiador, String nomeApoiador, boolean convenio, int numConvenio,
                         String funcao, String subfuncao, String progOrc, String acaoOrc,
                         String planoOrc, float valorEmp, float valorPag, float valorLiq,
-                        String localiEleitores, String planoTrab) {
+                        String localiEleitores, String planoTrab, String proj, String lict, String comprov) {
         super(ano, tipo, autor, numero, codigo, apoiador, nomeApoiador, convenio, numConvenio,
               funcao, subfuncao, progOrc, acaoOrc, planoOrc, valorEmp, valorPag, valorLiq, localiEleitores);
                     this.proj = proj;
